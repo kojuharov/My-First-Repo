@@ -1,5 +1,5 @@
 <?php
-$kurec_arr  = array(
+$ne_e_kurec_arr  = array(
 'first',
 'second',
 );
